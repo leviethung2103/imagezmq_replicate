@@ -35,4 +35,6 @@ The receiver is set up with hostname "127.0.0.1". Use the localhost.
 
 All the configurations are the same as scenario 1. However, at this time, the localhost is changed into `"hunglv1994.ddns.net`, which is the DNS for the public IP of my local network. 
 
+The private network is 192.168.3.x. I also opened the port 5555 the my network globally.
+
 > hostname = "hunglv1994.ddns.net"
